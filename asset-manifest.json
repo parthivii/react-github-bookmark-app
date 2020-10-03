@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-github-bookmark-app/static/css/main.1acc86c3.chunk.css",
+    "main.js": "/react-github-bookmark-app/static/js/main.15f740c7.chunk.js",
+    "main.js.map": "/react-github-bookmark-app/static/js/main.15f740c7.chunk.js.map",
+    "runtime-main.js": "/react-github-bookmark-app/static/js/runtime-main.0c53c940.js",
+    "runtime-main.js.map": "/react-github-bookmark-app/static/js/runtime-main.0c53c940.js.map",
+    "static/js/2.c945f5e9.chunk.js": "/react-github-bookmark-app/static/js/2.c945f5e9.chunk.js",
+    "static/js/2.c945f5e9.chunk.js.map": "/react-github-bookmark-app/static/js/2.c945f5e9.chunk.js.map",
+    "index.html": "/react-github-bookmark-app/index.html",
+    "precache-manifest.7eb81c145143111f7d2a61356f41044c.js": "/react-github-bookmark-app/precache-manifest.7eb81c145143111f7d2a61356f41044c.js",
+    "service-worker.js": "/react-github-bookmark-app/service-worker.js",
+    "static/css/main.1acc86c3.chunk.css.map": "/react-github-bookmark-app/static/css/main.1acc86c3.chunk.css.map",
+    "static/js/2.c945f5e9.chunk.js.LICENSE.txt": "/react-github-bookmark-app/static/js/2.c945f5e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c53c940.js",
+    "static/js/2.c945f5e9.chunk.js",
+    "static/css/main.1acc86c3.chunk.css",
+    "static/js/main.15f740c7.chunk.js"
+  ]
+}
